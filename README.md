@@ -76,3 +76,25 @@ I am also working on this line !!
 
 if we are in master and want to merge awesome to master
 git merge awesome
+
+
+## git Fork
+
+own version of project on ypur github
+make changes without affecting original repo (upstream repository)
+make PR from github to original
+
+## Pull request
+1. fork the repo
+2. clone the fork
+3. develop in local , in a new feat branch
+4. commit and push
+5. make a pull request
+
+when working with fork locally we can keep it in sync with the original
+
+git remote add upstream < git url>
+git fetch upstream
+git rebase upstream/master 
+
+
