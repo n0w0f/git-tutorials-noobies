@@ -1,4 +1,4 @@
-# Git & Github Tutorial Course
+# Git & Github Tutorial Course !
 
 git init
 
@@ -64,4 +64,11 @@ git branch -D awesome
 
 ## Git checkout
 
+git checkout -b awesome
+git branch awesome + git chekout awesome 
+
+git checkout - (take you to previous branch)
+
+
+## merge conflicts
 
