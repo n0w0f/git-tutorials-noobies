@@ -8,3 +8,10 @@ git reset .
 
 git status
 
+
+## commit
+
+ git commit -m "initial commit"
+
+ git log
+
