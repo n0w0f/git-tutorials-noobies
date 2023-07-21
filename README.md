@@ -1,8 +1,8 @@
-# Git & Github Tutorial
+# Git & Github Tutorial for Noobies :tada:
 
-Welcome to the Git & Github tutorial! In this guide, we'll cover the basics of using Git and Github for version control and collaborative development. Git is a distributed version control system that helps developers track changes to their code over time, while Github is a web-based hosting service for Git repositories, enabling collaboration and sharing of code.
+Welcome to the Git & Github tutorial! In this guide, we'll cover the basics of using Git and Github for version control and collaborative development. Git is a distributed version control system that helps developers track changes to their code over time, while Github is a web-based hosting service for Git repositories, enabling collaboration and sharing of code. :octocat:
 
-## Table of Contents
+## Table of Contents 
 1. [Getting Started](#1-getting-started)
 2. [Staging and Committing Changes](#2-staging-and-committing-changes)
 3. [Using Git with VS Code](#3-using-git-with-vs-code)
@@ -22,7 +22,7 @@ Welcome to the Git & Github tutorial! In this guide, we'll cover the basics of u
 17. [Git Rebase](#17-git-rebase)
 18. [Git Squash](#18-git-squash)
 
-## 1. Getting Started
+## 1. Getting Started 
 
 Let's begin by initializing a Git repository in your project folder:
 
