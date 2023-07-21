@@ -116,8 +116,22 @@ git commit --amend "better message"
 
 git commit --amend --no-edit (forgot to add some files to staging before the commit )
 
+## git stash
+
+git stash save <name>
+
+git stash list 
+git stash pop 
+git stash apply <name>
 
 
 
+## git rebase
 
+ 
+## git squash
+
+git rebase master --interactive
+
+replace pick with squash
 
