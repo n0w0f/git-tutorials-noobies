@@ -97,4 +97,15 @@ git remote add upstream < git url>
 git fetch upstream
 git rebase upstream/master 
 
+## Git reset
+
+working dir , staging dir , commit
+
+ git add . --> takes to staging area
+ git reset  --> unstage changes
+
+ 
+
+
+
 
