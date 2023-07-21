@@ -1,4 +1,4 @@
-# Git & Github course
+# Git & Github Tutorial Course
 
 git init
 
