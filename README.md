@@ -14,6 +14,7 @@ git status
  git commit -m "initial commit"
 
  git log
+ git log --graph --oneline --decorate
 
 ## VS Code 
   git lense
