@@ -104,7 +104,19 @@ working dir , staging dir , commit
  git add . --> takes to staging area
  git reset  --> unstage changes
 
- 
+
+git log
+git reset commitid 
+
+## Git revert
+
+## git ammend
+
+git commit --amend "better message"
+
+git commit --amend --no-edit (forgot to add some files to staging before the commit )
+
+
 
 
 
